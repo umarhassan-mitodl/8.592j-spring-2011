@@ -1,0 +1,154 @@
+leftnav:
+- identifier: 6c1bd7cc-2f3e-9e47-267c-21322f4bafa4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ce0d6e3f-e7c9-c14b-e369-e3fb81fc1bec
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e95c8d74-8705-c757-538f-f147aa39bcbc
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes/
+  weight: 40
+- identifier: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
+  name: Introduction
+  pageRef: /pages/lecture-notes/introduction/
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 50
+- identifier: f8ff1cf7-2849-44e2-dd35-ed2477451208
+  name: Elements of Population Genetic
+  pageRef: /pages/lecture-notes/elements-of-population-genetics
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 60
+- identifier: 47a1db56-bbb6-a070-b5f9-dabe05e1a596
+  name: Evolving Populations
+  pageRef: /pages/lecture-notes/evolving-populations
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 70
+- identifier: cb184d3b-e3f7-a733-5aee-c3f979db57f0
+  name: Population Genetics
+  pageRef: /pages/lecture-notes/population-genetics
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 80
+- identifier: 4fb1fa1c-9164-5669-8fd4-4d2d7cf59dda
+  name: Fixation
+  pageRef: /pages/lecture-notes/evolving-populations-1
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 90
+- identifier: 5811d01f-833a-220c-f952-bc93a3abc49b
+  name: Sequence Alignment (Intro)
+  pageRef: /pages/lecture-notes/sequence-comparison
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 100
+- identifier: 80192ac5-b68d-3345-3195-954eb0584640
+  name: Sequence Alignment (Algo)
+  pageRef: /pages/lecture-notes/substitution-matrices-blast
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 110
+- identifier: 11af0f00-dc54-78ce-d85a-e3567d5d0eb2
+  name: Significance of Alignments
+  pageRef: /pages/lecture-notes/significance-of-sequences
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 120
+- identifier: 9f3a0f52-9505-a794-5007-ab0cbf34d67e
+  name: Ionic Interactions
+  pageRef: /pages/lecture-notes/electostatic-interactions
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 130
+- identifier: db9b5036-eb22-c254-3eca-3983db7f4d70
+  name: Polymer Theory 1
+  pageRef: /pages/lecture-notes/statistical-physics
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 140
+- identifier: 1f389ec9-3b26-35e3-2805-53972bc6b3c5
+  name: Polymer Theory 2
+  pageRef: /pages/lecture-notes/phases-of-polymers
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 150
+- identifier: 2d1794d8-01e0-324e-b2d6-5374b2f0b95b
+  name: Protein Folding 1
+  pageRef: /pages/lecture-notes/protein-folding-1
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 160
+- identifier: a3598236-0ff8-9866-11e1-3784e404805a
+  name: Protein Folding 2
+  pageRef: /pages/lecture-notes/protein-structure
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 170
+- identifier: 44afb2ed-6a46-a832-1674-ba0df0674ddb
+  name: Protein Folding 3
+  pageRef: /pages/lecture-notes/lattice-model
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 180
+- identifier: 4ba480a5-e0f1-66dd-99f1-497bffe9dacf
+  name: Protein Folding 4
+  pageRef: /pages/lecture-notes/kinetics-of-protein-folding
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 190
+- identifier: 95e8c805-a886-c369-5df4-e57e7a7507f8
+  name: DNA (Melting)
+  pageRef: /pages/lecture-notes/dna-denaturation
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 200
+- identifier: 7e9d23dd-2907-daae-4c1c-682e783daf0e
+  name: RNA (Secondary Structure)
+  pageRef: /pages/lecture-notes/rna-secondary-structure
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 210
+- identifier: 78e5e58d-5be6-ae76-54c4-48d1bc0feb4a
+  name: Protein-DNA Interactions 1
+  pageRef: /pages/lecture-notes/protein-dna-interactions
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 220
+- identifier: a7c9084f-93b5-9127-e2d7-dd4399b1f635
+  name: Protein-DNA Interactions 2
+  pageRef: /pages/lecture-notes/protein-dna
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 230
+- identifier: a0b275ba-106e-9e24-d4e0-873864ef081f
+  name: Microtubules
+  pageRef: /pages/lecture-notes/microtubules
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 240
+- identifier: d38a3bb5-db45-98aa-d094-a523ee5c0002
+  name: Molecular Motors
+  pageRef: /pages/lecture-notes/molecular-motors
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 250
+- identifier: 6f15f00d-644f-947d-0567-081f19c228be
+  name: Introduction to Networks
+  pageRef: /pages/lecture-notes/introduction-to-networks
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 260
+- identifier: 2d5305f4-1043-94ea-ef0d-ac0d75de42aa
+  name: Dynamics on Networks 1
+  pageRef: /pages/lecture-notes/dynamic-behaviors
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 270
+- identifier: 48092cdf-d219-09b9-48dc-416f280084c8
+  name: Dynamics on Networks 2
+  pageRef: /pages/lecture-notes/collective-behaviors
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 280
+- identifier: d321f2be-aebf-d103-6de6-240eef814236
+  name: Packing of DNA Inside Cells
+  pageRef: /pages/lecture-notes/cooperativity
+  parent: 9e7f1aa8-38db-6648-8063-791ee60d518e
+  weight: 290
+- identifier: da217913-9c1d-a5a4-a85b-2a9e4517b660
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 300
+- identifier: cf372e43-15fa-d161-24db-e9d4a1b81817
+  name: Projects
+  pageRef: /pages/projects
+  weight: 310
+- identifier: 4e3894da-0b55-4161-cca4-085ebd2b2019
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 320
