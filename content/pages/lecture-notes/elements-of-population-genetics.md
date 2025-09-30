@@ -17,12 +17,12 @@ video_metadata:
 ## Foundations of Molecular Evolution and Population Genetics
 
 1. Review of the central dogma
-    1. {{% resource_link "b86b0cf3-a215-4240-a249-382549a715ed" "Replication" %}}
+    1. [Replication](http://web.mit.edu/8.592/www/lectures/lec2/DNAreplicationModes.png)
     2. Coding sequence
-        1. {{% resource_link "e287a0b4-10f7-4293-b24e-93d0c00473d9" "Gene" %}}
-        2. {{% resource_link "0caccc19-4fdd-4a64-a75e-b024d6bb7cb3" "Protein" %}}
+        1. [Gene](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&qty=1&c_start=1&list_uids=L48217.1&uids=&dopt=fasta&dispmax=5&sendto=&fmt_mask=0&from=begin&to=end&extrafeatpresent=1&ef_CDD=8&ef_MGC=16&ef_HPRD=32&ef_STS=64&ef_tRNA=128&ef_microRNA=256)
+        2. [Protein](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&qty=1&c_start=1&list_uids=4504349&itemID=5&dopt=fasta)
         3. Genome
-    3. {{% resource_link "47b12faa-7daf-4383-bcb9-3f6202caf19f" "Genetic code" %}}
+    3. [Genetic code](http://en.wikipedia.org/wiki/Genetic_code)
 2. Mutations, DNA variation
     1. Synonymous
     2. Non-synonymous
@@ -31,7 +31,7 @@ video_metadata:
         1. Genotype
         2. Haploids vs diploids
         3. Homo/heterozygosis, allele frequency
-        4. {{% resource_link "b456c1a8-65c8-4068-bb44-28ee41a4c777" "Dominant vs recessive (PDF)" %}}: blood types
+        4. [Dominant vs recessive (PDF)](http://education.sdsc.edu/download/enrich/mendelian_traits.pdf): blood types
     2. Random mating: **Hardy-Weinberg equilibrium**
 4. Genetic Drift
     1. N=1

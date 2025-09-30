@@ -14,8 +14,8 @@ video_metadata:
   youtube_id: null
 ---
 1. Biological information:
-    - Exponential growth of available sequence data ({{% resource_link "9e5c3366-846d-46e8-9098-83a8feb32a7d" "GenBank" %}})
-    - Genes ({{% resource_link "26c5fbe1-2b69-4dda-b234-1a663561d0f4" "triplet code" %}}); {{% resource_link "cdc8bece-2c16-4f9c-b905-77f71bda74db" "Regulatory elements" %}}; …
+    - Exponential growth of available sequence data ([GenBank](http://www.ncbi.nlm.nih.gov/Genbank/genbankstats.html))
+    - Genes ([triplet code](http://online.itp.ucsb.edu/online/infobio01/stormo2/oh/305.html)); [Regulatory elements](http://online.itp.ucsb.edu/online/infobio01/krivan/oh/102.html); …
 2. Molecular evolution and Population genetics:
     - Mutations
         - Transition probability matrix; approach to steady state
@@ -24,11 +24,11 @@ video_metadata:
     - Selection
         - Forward and backward Kolmogorov equations
 3. Gene annotation and similarity detection:
-    - {{% resource_link "040fe9d3-bfc4-49b6-9480-9056e055652c" "BLAST" %}} and database searches
+    - [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs) and database searches
     - Scoring similarities
         - Substitution matrices PAM, BLOSUM, …
-    - {{% resource_link "78c4bbec-2415-4994-8697-a4f4cc55ab56" "Ungapped alignments" %}}
-        - Statistical significance ({{% resource_link "9ea16e0b-017c-4a3d-a957-391e5d8ea659" "Gumbel" %}} & {{% resource_link "e3dcc2ea-568c-44f0-b161-584e784d23a4" "Extreme Value Distributions" %}})
+    - [Ungapped alignments](http://online.itp.ucsb.edu/online/infobio01/altschul1/oh/03.html)
+        - Statistical significance ([Gumbel](http://online.itp.ucsb.edu/online/infobio01/bundschuh/oh/05.html) & [Extreme Value Distributions](http://en.wikipedia.org/wiki/Generalized_extreme_value_distribution))
         - The Karlin-Dembo formula
     - Gapped alignments
         - dynamic programming (transfer matrix)

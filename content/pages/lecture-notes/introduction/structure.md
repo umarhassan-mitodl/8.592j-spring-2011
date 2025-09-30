@@ -18,20 +18,20 @@ video_metadata:
     *   Interactions and the coil-globule transition
     *   Ionic interactions
 2.  DNA double helix:
-    *   {{% resource_link "703416ae-71a2-439d-81e5-fffebe2ae931" "Watson-Crick pairs" %}}; symmetries
-    *   Energy/entropy considerations, and {{% resource_link "b8801187-4b32-4a12-a3d4-e9a347e33bf2" "melting" %}}
+    *   [Watson-Crick pairs](http://online.itp.ucsb.edu/online/infobio01/tang/oh/02.html); symmetries
+    *   Energy/entropy considerations, and [melting](http://online.itp.ucsb.edu/online/infobio01/tang/oh/03.html)
     *   Elasticity; bend, twist, and topology
     *   Unzipping; translocation, packing, …
-3.  {{% resource_link "242d4bb8-c714-4b29-b87d-bc92df91d17e" "RNA" %}} strands:
+3.  [RNA](http://en.wikipedia.org/wiki/RNA) strands:
     *   Varieties: mRNA, tRNA, ribosomal RNA, …
-    *   {{% resource_link "6656ebaf-aa3d-4279-abaa-3ba8b8d6d699" "Hartree equation" %}} for obtaining secondary structures without pseudo-knots
+    *   [Hartree equation](http://online.itp.ucsb.edu/online/infobio01/bundschuh1/oh/115.html) for obtaining secondary structures without pseudo-knots
     *   Kinetics folding (local minimum) vs thermodynamics hypothesis (global minimum)
 4.  Sequence to Structure maps
 5.  Protein folding:
     *   Role of hydrophobicity and other interactions
-    *   Secondary structure elements: {{% resource_link "ce45378f-638e-49a2-9507-d67368845c53" "alpha-helices" %}} & {{% resource_link "b2736141-9fe3-40f9-be5e-6aa7aa91de69" "beta-sheets" %}}
+    *   Secondary structure elements: [alpha-helices](http://online.itp.ucsb.edu/online/infobio01/stormo2/oh/307.html) & [beta-sheets](http://online.itp.ucsb.edu/online/infobio01/stormo2/oh/308.html)
     *   Classification of protein structures, and their evolution
-    *   {{% resource_link "fea16e81-e5bb-4a3e-8028-895a36ca5fed" "Simple lattice models of protein folding" %}}, {{% resource_link "ed0f859f-1677-480d-bd3c-32874a563183" "solvation model" %}}
+    *   [Simple lattice models of protein folding](http://online.itp.ucsb.edu/online/infobio01/dill/oh/02.html), [solvation model](http://online.itp.ucsb.edu/online/infobio01/tang1/oh/15.html)
     *   Random Energy Model for freezing
     *   Dynamics of fast folding
     *   Folding in the cell: chaperones, co-translational, agregation and fibrils
@@ -40,6 +40,6 @@ video_metadata:
     *   Electrostatic interactions
     *   Specific and non-specific binding of factors to DNA regulatory elements
     *   Borg-von Hippel, wight matrices (profiles), information content
-    *   {{% resource_link "58024ec5-ff9e-412e-b467-96b57be8cbe2" "Large scale packaging of DNA" %}}; histones, heterochromatin, …
+    *   [Large scale packaging of DNA](http://online.itp.ucsb.edu/online/infobio01/stormo/oh/10.html); histones, heterochromatin, …
 
 {{% resource_link 216ac03d-978d-1d2c-7137-b2b2dc3217ca "Back" %}}

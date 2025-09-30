@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a lecture outline and links to related materials
   on packing of DNA inside cells.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -23,4 +25,4 @@ video_metadata:
 Some Related Links
 ------------------
 
-*   {{% resource_link "45778245-bdfc-4a94-b8dc-430954beb20f" "Tutorial on Hemoglobin" %}}
+*   [Tutorial on Hemoglobin](http://higheredbcs.wiley.com/legacy/college/boyer/0471661791/structure/HbMb/hbmb.htm)

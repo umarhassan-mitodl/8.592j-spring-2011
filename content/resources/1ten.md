@@ -4,6 +4,8 @@ description: 'Software commands necessary for completing Assignment #5.'
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/be753c37addf2c9f5815b8cd93e7146e_1TEN.PDB
 file_size: 58118
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

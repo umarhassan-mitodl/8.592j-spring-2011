@@ -47,9 +47,9 @@ Finkelstein, Alexei V., and Oleg B. Ptitsyn. *Protein Physics: A Course of Lectu
 
 There are many excellent resources on the Web. Here are a few examples:
 
-{{% resource_link "fac1642b-52bb-4914-b697-f42a765ecbb5" "ITP Program on Bioinformatics" %}}
+[ITP Program on Bioinformatics](http://www.bic.kyoto-u.ac.jp/itp/)
 
-{{% resource_link "a0a67ad0-547c-4217-9e02-63c3514a66f2" "Kimball's Online Biology Textbook" %}}
+[Kimball's Online Biology Textbook](http://www.biology-pages.info/)
 
 ## Assignments
 
