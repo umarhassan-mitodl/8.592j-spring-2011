@@ -50,8 +50,8 @@ Finally, prior to each class, I reviewed the material to be posted on the web (i
 
 ### Requirements Satisfied
 
-- [Biophysics Certificate Program: Physical Sciences & Engineering requirement](http://biophysics.mit.edu/MIT_Biophysics/Certificate_Program.html)
-- For physics graduate students outside the graduate biophysics program, this course satisfies the [Breadth Subject Requirement](http://web.mit.edu/physics/current/graduate/doctoral.html#breadth). For those in the program, it satisfies a [Specialty Subject Requirement](http://web.mit.edu/physics/current/graduate/doctoral.html#specialty).
+- {{% resource_link "0f401497-75e8-4185-9804-80502558e60c" "Biophysics Certificate Program: Physical Sciences & Engineering requirement" %}}
+- For physics graduate students outside the graduate biophysics program, this course satisfies the {{% resource_link "d1366442-f002-4a6e-8093-474d4857eeca" "Breadth Subject Requirement" %}}. For those in the program, it satisfies a {{% resource_link "242ff6f7-b634-4ae5-ac96-2028ed5d372e" "Specialty Subject Requirement" %}}.
 
 ### Offered
 
