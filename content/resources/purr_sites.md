@@ -4,8 +4,6 @@ description: Supporting file.
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/2eee1a5b6186d3dd45af4ea4c64b945c_purR_sites.txt
 file_size: 595
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

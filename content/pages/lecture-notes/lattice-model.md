@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a lecture outline on protein folding and kinetics
   with links to related materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ video_metadata:
 1.  Review of protein structure
 2.  Protein Folding Problem(s)
     *   Predict the native structure, given the sequence
-        *   [Sequence-structure mapping and fold prediction](http://www.mit.edu/~kardar/teaching/IITS/lectures/lec4/FoldPrediction.jpg)
+        *   {{% resource_link "a5133bdb-5d5d-4ca4-9eae-5729ce654212" "Sequence-structure mapping and fold prediction" %}}
 3.  Lattice Model
 4.  Designed sequence
 5.  Monte Carlo sequence design, detailed balance

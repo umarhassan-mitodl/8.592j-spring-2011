@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a lecture outline and detailed lecture notes on
   protein-DNA interactions, sequence-dependence, and kinetics.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

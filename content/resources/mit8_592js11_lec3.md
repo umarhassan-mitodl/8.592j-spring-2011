@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/5253e8ec9c66924411294ebb8e85e951_MIT8_592JS11_lec3.pdf
 file_size: 115564
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

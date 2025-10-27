@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/702eabd352f88d3f8f2b5d3545fdf826_8-592J_stat-students.png
 file_size: 2804
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

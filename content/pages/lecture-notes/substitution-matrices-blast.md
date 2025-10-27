@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a lecture outline on algorithms for sequence alignment
   with links to related materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -17,7 +15,7 @@ video_metadata:
 ---
 
 1.  Substitution Matrices
-    1.  [PAM](http://en.wikipedia.org/wiki/Point_accepted_mutation)
-2.  [BLAST](http://www.ncbi.nlm.nih.gov/BLAST/)
+    1.  {{% resource_link "bf5bf86f-5393-4b4f-b2b4-e027010b55b2" "PAM" %}}
+2.  {{% resource_link "045c79a9-2d02-4b49-9310-cddc6ceca80f" "BLAST" %}}
     1.  How it works
     2.  Examples

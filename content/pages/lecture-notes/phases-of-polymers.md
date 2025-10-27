@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a lecture outline and detailed lecture notes on
   polymer theory, collapse, and random energy.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

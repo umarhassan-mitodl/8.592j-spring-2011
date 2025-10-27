@@ -33,7 +33,6 @@
     "website": "8-592j-statistical-physics-in-biology-spring-2011"
   },
   "course_title": "Statistical Physics in Biology",
-  "hide_download": true,
   "course_description": "Statistical Physics in Biology is a survey of problems at the interface of statistical physics and modern biology. Topics include: bioinformatic methods for extracting information content of DNA; gene finding, sequence comparison, and phylogenetic trees; physical interactions responsible for structure of biopolymers; DNA double helix, secondary structure of RNA, and elements of protein folding; considerations of force, motion, and packaging; protein motors, membranes. We also look at collective behavior of biological elements, cellular networks, neural networks, and evolution.\n",
   "department_numbers": [
     "8",
@@ -45,7 +44,6 @@
     "content": "4b284080-a1db-5b82-6004-26217f613b7e",
     "website": "8-592j-statistical-physics-in-biology-spring-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

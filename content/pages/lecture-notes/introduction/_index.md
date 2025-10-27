@@ -3,8 +3,6 @@ content_type: page
 description: This section provides an outline of the first lecture of the course,
   detailed lecture notes, and links to individual pages on sequencing, macromolecular
   structure, cell function, and organization.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
