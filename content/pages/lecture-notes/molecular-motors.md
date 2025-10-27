@@ -16,10 +16,10 @@ video_metadata:
 ---
 ## Molecular Motors
 
-1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):       
+1. {{% resource_link "fb308644-44fb-4559-b02a-72128418afb1" "Molecular motors" %}}:       
       
-    - [Kinesin](http://en.wikipedia.org/wiki/Kinesin) and [Dynein](http://en.wikipedia.org/wiki/Dynein) move in opposite directions along microtubules [consuming ATP](http://en.wikipedia.org/wiki/Adenosine_triphosphate)
-    - [Myosin](http://en.wikipedia.org/wiki/Myosin) moves on [actin filaments](http://web.archive.org/web/20170127130248/http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/actin.htm)
+    - {{% resource_link "f4ed2f01-faf7-4b33-9639-215d60ec9463" "Kinesin" %}} and {{% resource_link "a91fe780-a927-4c48-91f9-8eb46b15dc5c" "Dynein" %}} move in opposite directions along microtubules {{% resource_link "e3e4adfd-7738-4a58-b2bb-705cb1c4021d" "consuming ATP" %}}
+    - {{% resource_link "5b9cd755-412e-4691-9467-0c69cb265d4b" "Myosin" %}} moves on {{% resource_link "ce713175-d413-48e2-9329-5d2398dbe3c6" "actin filaments" %}}
     - Animation of motion of kinesin on a microtubule
 2. General scheme of motor transport:       
       
@@ -31,58 +31,58 @@ video_metadata:
 
 {{< resource uuid="70bbd1ea-1d50-d0f3-b586-2d205ef19c6c" >}}
 
-A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/Brownian_ratchet))
+A Brownian ratchet (Image from {{% resource_link "a0b9a765-465a-4d4b-9243-af848db3c7bd" "Wikimedia Commons" %}})
 
-[View a ratchet and pawl animation](http://www.physik.uni-augsburg.de/theo1/hanggi/ratchetanim.gif)
+{{% resource_link "3b398e3a-a78b-4118-b8bc-86fde1ec2c08" "View a ratchet and pawl animation" %}}
 
-- [Feynman's ratchet and pawl](http://en.wikipedia.org/wiki/Brownian_ratchet):
-- [Simulation of a Brownian motor](http://www.elmer.unibas.ch/bm/index.html)
-- From the [web-page of George Oster](https://en.wikipedia.org/wiki/George_Oster):
-    - Wang, H., and G. Oster. ["Ratchets, power strokes, and molecular motors." (PDF)](https://www.worldcat.org/title/5648393986) *Applied Physics A* 75, no. 315 (2002).
-    - Bustamante, C., D. Keller, et al. ["The Physics of Molecular Motors." (PDF)](https://pubs.acs.org/doi/pdf/10.1021/ar0001719?rand=guxjvfkd) *Acc. Chem. Res.* 34, no. 412 (2001).
+- {{% resource_link "a0b9a765-465a-4d4b-9243-af848db3c7bd" "Feynman's ratchet and pawl" %}}:
+- {{% resource_link "d062c9ee-0a9a-4e88-b206-adaf2e1c10a2" "Simulation of a Brownian motor" %}}
+- From the {{% resource_link "84ff1fbc-8c13-4b01-ae74-e398b1385c8a" "web-page of George Oster" %}}:
+    - Wang, H., and G. Oster. {{% resource_link "1c98281a-2373-445f-98c6-c2fa97d43d0a" "\"Ratchets, power strokes, and molecular motors.\" (PDF)" %}} *Applied Physics A* 75, no. 315 (2002).
+    - Bustamante, C., D. Keller, et al. {{% resource_link "6b1c2ab7-e4b2-4ee6-b0ff-c2b12eba352f" "\"The Physics of Molecular Motors.\" (PDF)" %}} *Acc. Chem. Res.* 34, no. 412 (2001).
 
 1. Asymmetric hopping models:
-    - Fisher, M. E., A. B. Kolomeisky. "[The force exerted by a molecular motor](http://www.pnas.org/cgi/content/abstract/96/12/6597?)." *PNAS* 96, no. 6597 (1999).
+    - Fisher, M. E., A. B. Kolomeisky. "{{% resource_link "5c1a5a3a-e9e5-4fc9-b30d-5d9fa4110812" "The force exerted by a molecular motor" %}}." *PNAS* 96, no. 6597 (1999).
     - Multiple internal states
     - Solution with two internal state
     - Einstein force, stalling force
 
 ## Some Related Links
 
-- [Kinesin Home Page](https://sites.duke.edu/kinesin/)
-- [Dynein Home Page](https://en.wikipedia.org/wiki/Dynein)
-- [Myosin Home Page](https://en.wikipedia.org/wiki/Myosin)
-- [Kinesin Motors—the Movies](https://sites.duke.edu/kinesin/kinesin-motors-movies/)
-- [The inner life of a cell](http://www.studiodaily.com/main/technique/tprojects/6850.html)
+- {{% resource_link "bfe799ea-6178-4340-9d48-55f6bc68e794" "Kinesin Home Page" %}}
+- {{% resource_link "5a1d965a-ded1-41b3-a6ab-fde0adb2f55d" "Dynein Home Page" %}}
+- {{% resource_link "32c624ed-477d-4b5d-8cac-52a994f03197" "Myosin Home Page" %}}
+- {{% resource_link "a5d72e6c-26f6-4ed7-87bc-fee675330ad9" "Kinesin Motors—the Movies" %}}
+- {{% resource_link "2389e0bb-27f3-4584-a80a-82c699ac5683" "The inner life of a cell" %}}
 - Lecture at Delft by Gerrit E.W. Bauer 
 - Capturing and viewing single molecules:
-    - [Optical tweezers](https://blocklab.stanford.edu/optical_tweezers.html)
-    - [Fluorescent light microscopy (PDF)](http://www.fluorescence-foundation.org/lectures/genova2007/lecture6.pdf)
+    - {{% resource_link "130cd78e-2be8-47ba-b9e4-f7f2387e64eb" "Optical tweezers" %}}
+    - {{% resource_link "2e2f13ea-e164-470a-ba60-68c13f4a2aca" "Fluorescent light microscopy (PDF)" %}}
 
 ## Cell Motion
 
-1. [Brownian motion](http://www.mit.edu/%7Ekardar/research/seminars/motility/BBrownian.html): 
-    - Movies of [milk droplets in water](http://www.microscopy-uk.org.uk/dww/home/hombrown.htm)
-    - [Animated simulation](https://physics.bu.edu/~duffy/HTML5/brownian_motion.html) (see also [Applet 1](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Brownian/brownian.html), [Applet 2](http://www.ms.uky.edu/%7Emai/java/stat/brmo.html))
+1. {{% resource_link "61b874e3-9698-4f71-923f-a07ddd1a9128" "Brownian motion" %}}: 
+    - Movies of {{% resource_link "b1017865-2c2f-4462-946b-d4a0650f882e" "milk droplets in water" %}}
+    - {{% resource_link "6558f057-8a25-4e6e-9347-d5878e4eb32a" "Animated simulation" %}} (see also {{% resource_link "f4fbd758-5082-446a-a920-50a91da332cb" "Applet 1" %}}, {{% resource_link "d43a13f5-2d65-4efb-b273-ef3f1d02b6e8" "Applet 2" %}})
     - Langevin description
     - Fokker-Planck description
     - Thermal equilibrium and the Einsten relation
-2. [Crawling cells](http://www.mit.edu/%7Ekardar/research/seminars/motility/BCellMotility.html)
-    - [Remodelling of actin cycloskeleton](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500527/)
-    - [Crawling Neutrophil Chasing a Bacterium](http://earthsky.org/human-world/crawling-neutrophil-chasing-a-bacterium)
-    - More from the [Theriot lab movie collection](https://www.merlot.org/merlot/viewMaterial.htm?id=79706)
+2. {{% resource_link "2a2dd288-5537-40bc-a1b2-81a6685f75de" "Crawling cells" %}}
+    - {{% resource_link "7cbbc375-e3c1-4526-9e4b-0090770edf26" "Remodelling of actin cycloskeleton" %}}
+    - {{% resource_link "53f84c87-1f3d-4889-857c-f5bedcdb5db0" "Crawling Neutrophil Chasing a Bacterium" %}}
+    - More from the {{% resource_link "218d67c2-030f-4934-8da9-0c10b7729328" "Theriot lab movie collection" %}}
     - Latex beads coated with ActA protein: motion and spontaneous symmetry breaking
 3. Swimming cells:
-    - [Life at Low Reynolds Number](http://dx.doi.org/10.1119/1.10903) (E.M. Purcell)
+    - {{% resource_link "1a32a645-9404-4415-b823-bb8a1fafab74" "Life at Low Reynolds Number" %}} (E.M. Purcell)
     - The scallop theorem: impossibility of reciprocal motion
     - Flagellar rotary motion (efficiency)
     - Chemotaxis by runs and tumbles—why?
 
 ## Some Related Links
 
-- [Cell Locomotion](http://www.bms.ed.ac.uk/research/others/smaciver/Cell%20biol.topics/Cell_Locomotion.htm)
-- Some parameters for diverse [Cell Motion](http://www.math.ubc.ca/%7Eais/website/status/movements.html)
-- E. M. Purcell. ["The efficiency of propulsion by a rotating flagellum." (PDF)](http://www.pnas.org/content/94/21/11307.full.pdf) *PNAS* 94, (1997): 11307–11.
-- Berg, Howard. "[Motile Behavior of Bacteria](https://doi.org/10.1063/1.882934)." *Physics Today*, January 2000, 24.
+- {{% resource_link "ff24c883-8d64-4b2b-a10f-861a636e91b0" "Cell Locomotion" %}}
+- Some parameters for diverse {{% resource_link "b0a1721f-aef3-4716-aa9d-32e0c4ef151f" "Cell Motion" %}}
+- E. M. Purcell. {{% resource_link "bf3b8ca9-8ec7-48c4-9aba-47c274995b69" "\"The efficiency of propulsion by a rotating flagellum.\" (PDF)" %}} *PNAS* 94, (1997): 11307–11.
+- Berg, Howard. "{{% resource_link "8dea5fd4-d19a-4b8e-a821-aa3cd85dd47e" "Motile Behavior of Bacteria" %}}." *Physics Today*, January 2000, 24.
 
 ({{% resource_link "551e30e0-458b-1622-ba9e-cab0139bf591" "Detailed Lecture Notes (PDF)" %}})
